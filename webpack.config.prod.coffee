@@ -6,7 +6,7 @@ webpackBase = require './webpack.config.base'
 
 module.exports =
   entry:
-    app: './src/assets/js/index.jsx',
+    app: './src/assets/js/index.js',
 
   output: webpackBase.output
 
