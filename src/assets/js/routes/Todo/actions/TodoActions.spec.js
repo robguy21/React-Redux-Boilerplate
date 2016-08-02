@@ -1,6 +1,6 @@
 import test from 'tape';
-import {actionTest} from 'tape-redux';
- 
+import { actionTest } from 'tape-redux';
+
 import * as TodoActions from './TodoActions.js';
 
 test('Todo action ADD_TODO', actionTest(
