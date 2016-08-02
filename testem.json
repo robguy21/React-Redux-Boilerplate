@@ -12,7 +12,7 @@
   ],
   "framework": "tap",
   "src_files": [
-    "src/assets/js/**/*.js"
+    "./src/assets/js/**/*.js"
   ],
   "launch_in_dev": ["PhantomJS", "Chrome"]
 }
