@@ -14,5 +14,7 @@
   "src_files": [
     "./src/assets/js/**/*.js"
   ],
+  "phantomjs_debug_port": 9001,
+  "bail_on_uncaught_error": false,
   "launch_in_dev": ["PhantomJS", "Chrome"]
 }
